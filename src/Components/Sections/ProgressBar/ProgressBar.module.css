@@ -1,0 +1,15 @@
+.progressBarContainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background-color: #f2f2f2;
+    z-index: 999;
+  }
+  
+  .progressBar {
+    height: 100%;
+    background-color:cadetblue;
+  }
+  

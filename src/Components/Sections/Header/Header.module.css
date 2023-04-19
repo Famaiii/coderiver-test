@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&family=Oswald:wght@400;500&family=Roboto&display=swap');
+
+.landing {
+    font-family: Jomhuria;
+    color: #2e3341;
+    font-size: 80px;
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+
+.headerNav {
+    font-family: Roboto;
+    font-size: 18px;
+    color: #000000;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.buy {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.sectionText {
+    position: absolute;
+    font-family: Roboto;
+    font-size: 18px;
+    color: #000000;
+    top: 40px;
+}
+
+.headerHeader {
+    background-color: #E1E3E9;
+}
+
